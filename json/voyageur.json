@@ -1,0 +1,21 @@
+{
+    "requestType": "200ITINS",
+    "customer": "string",
+    "excludeBasicEconomy": true,
+    "maxConnection": 1,
+    "baggagePref": true,
+    "adult": 1,
+    "child": 0,
+    "infant": 0,
+    "csv": "string",
+    "pcc": "string",
+    "alternatePcc": "",
+    "preferredAirlines": "",
+    "itineraries": [
+        {
+            "origin": "JFK",
+            "destination": "DTW",
+            "departureDate": "2023-12-05"
+        }
+    ]
+}
